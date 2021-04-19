@@ -1,3 +1,0 @@
-$ composer require symfony/apache-pack
-$ git add composer.json composer.lock symfony.lock public/.htaccess
-$ git commit -m "apache-pack"
